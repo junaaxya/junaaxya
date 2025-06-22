@@ -28,9 +28,9 @@
 📊 **Statistik GitHub Saya**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjuna21&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjuna&show_icons=true&theme=tokyonight&hide=issues" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuna21&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuna&theme=tokyonight" />
 </p>
 
 ---
