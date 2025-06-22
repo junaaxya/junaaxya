@@ -13,7 +13,7 @@
 - ⚙️ Fokus pada **Next.js**, **Tailwind CSS**, **Prisma**, dan **CI/CD**
 - 🎯 Tujuan: Membawa budaya lokal ke dunia digital lewat teknologi
 - 📚 Hobi: Desain UI, animasi, dan seni musik tradisional
-- 📬 Email: **arjuna21@gmail.com**
+- 📬 Email: **arjunabangka12@gmail.com**
 
 ---
 
