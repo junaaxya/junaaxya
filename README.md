@@ -45,7 +45,8 @@
 
 🐍 **Animasi Snake Commit (Opsional)**
 
-![snake gif](https://github.com/arjuna21/arjuna21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://junaaxya.github.io/snk/github-contribution-grid-snake.svg)
+
 
 ---
 
