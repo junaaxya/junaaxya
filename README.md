@@ -54,7 +54,7 @@
 ### 🌐 Website Unmuh Babel Press
 <p align="center">
   <a href="https://unmuhbabelpress.com">
-    <img src="https://imgur.com/a/8gNIEGJ" width="400" alt="Unmuh Babel Press Screenshot" />
+    <img src="https://raw.githubusercontent.com/junaaxya/junaaxya/main/WhatsApp%20Image%202025-07-25%20at%2020.39.06.jpeg" width="400" alt="Preview Website Unmuh Babel Press" />
   </a>
 </p>
 
