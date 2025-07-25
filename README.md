@@ -44,7 +44,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjuna21&theme=onedark&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=junaaxya&theme=onedark&no-frame=true&column=6" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 🌐 Website Unmuh Babel Press
 <p align="center">
   <a href="https://unmuhbabelpress.com">
-    <img src="https://raw.githubusercontent.com/arjuna21/unmuhbabelpress/main/public/preview.png" width="400" alt="Unmuh Babel Press Screenshot" />
+    <img src="https://imgur.com/a/8gNIEGJ" width="400" alt="Unmuh Babel Press Screenshot" />
   </a>
 </p>
 
