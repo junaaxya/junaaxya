@@ -19,7 +19,7 @@
 - 🌱 Belajar & eksperimen dengan: **Next.js**, **Prisma**, **CI/CD**, dan **Tailwind CSS**
 - 🧠 Fokus utama: Desain UI/UX, konten edukasi visual, dan pelestarian seni tradisional lewat media digital
 - 🎧 Proyek kreatif: Dokumentasi musik **Dambus Bangka**
-- 📫 Email: **arjuna21@gmail.com**
+- 📫 Email: **arjunabangka12@gmail.com**
 
 ---
 
@@ -34,9 +34,9 @@
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjuna21&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaaxya&show_icons=true&theme=tokyonight&hide=issues" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuna21&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaaxya&theme=tokyonight" />
 </p>
 
 ---
@@ -69,15 +69,15 @@
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/email-arjuna21@gmail.com-blue?style=flat&logo=gmail)](mailto:arjuna21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjuna21)
+[![Email](https://img.shields.io/badge/email-arjuna21@gmail.com-blue?style=flat&logo=gmail)](mailto:arjunabangka12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/arjuna21](https://www.linkedin.com/in/arjuna-%E3%85%A4-698972263/))
 [![Instagram](https://img.shields.io/badge/@navarta.creative-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/navarta.creative)
 [![YouTube](https://img.shields.io/badge/YouTube-LensaFakta-red?style=flat&logo=youtube)](https://youtube.com/@lensafakta21)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arjuna21.arjuna21" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=junaaxya.junaaxya" />
 </p>
 
 <p align="center">
