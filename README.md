@@ -69,7 +69,7 @@
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/email-arjuna21@gmail.com-blue?style=flat&logo=gmail)](mailto:arjunabangka12@gmail.com)
+[![Email](https://img.shields.io/badge/email-arjunabangka12@gmail.com-blue?style=flat&logo=gmail)](mailto:arjunabangka12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/arjuna21](https://www.linkedin.com/in/arjuna-%E3%85%A4-698972263/))
 [![Instagram](https://img.shields.io/badge/@navarta.creative-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/navarta.creative)
 [![YouTube](https://img.shields.io/badge/YouTube-LensaFakta-red?style=flat&logo=youtube)](https://youtube.com/@lensafakta21)
